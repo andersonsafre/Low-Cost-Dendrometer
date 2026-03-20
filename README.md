@@ -26,10 +26,27 @@ See: hardware/wiring_diagram.png
 See: hardware/dendro_bracket_v1.pdf
 ---
 
-## 📦 Bill of Materials (BOM)
+## 📦 Bill of Materials (BOM) (
 
+
+| Item | Description | Cost (USD) |
+|------|------------|------------|
+| Arduino Pro Mini | 3.3V ATmega328 | 5 |
+| Linear Displacement Sensor | BI Model 404 | 23 |
+| RTC Module | DS3231 | 2 |
+| MicroSD Module | pzsmocn 3.3V | 6 |
+| MicroSD Card | 16 GB | 10 |
+| Battery | 2 × 18650 (3.5 Ah) | 8 |
+| Jumper Wires | Standard set | 6 |
+| Battery Holder | 18650 holder | 1 |
+| Enclosure | Waterproof ABS electrical box | 6 |
+| Coin Cell Battery | CR2032 | 4 |
+| Bracket | Aluminum | 2 |
+| **Total** |  | **73** |
 Available in:
 bom/bill_of_materials.csv
+
+*Note: Component prices were last verified in March 2026 based on typical online retail sources (e.g., Amazon, DigiKey, 18650 Battery store) and may vary with supplier, quantity, and market conditions.*
 
 ## ⚙️ Firmware
 
