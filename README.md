@@ -1,8 +1,12 @@
 # Low-Cost Arduino-Based Dendrometer System
 
+![System overview](docs/overview.jpg)
+
+*Figure 1. Low-cost dendrometer system including Arduino datalogger and sensor.*
+
 This repository contains all hardware and software required to reproduce the low-cost dendrometer system described in:
 
-**[Your Paper Title Here]**
+**Development and Evaluation of a Low-Cost Dendrometer System for Agricultural and Research Applications**
 
 ---
 
@@ -18,6 +22,8 @@ The system consists of:
 ### 📷 Wiring Diagram
 See: hardware/wiring_diagram.png
 
+### 🔩 Mounting Bracket 
+See: hardware/dendro_bracket_v1.pdf
 ---
 
 ## 📦 Bill of Materials (BOM)
