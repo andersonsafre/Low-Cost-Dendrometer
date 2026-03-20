@@ -26,7 +26,7 @@ See: hardware/wiring_diagram.png
 See: hardware/dendro_bracket_v1.pdf
 ---
 
-## 📦 Bill of Materials (BOM) (
+## 📦 Bill of Materials (BOM) 
 
 
 | Item | Description | Cost (USD) |
