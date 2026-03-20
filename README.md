@@ -20,7 +20,7 @@ The system consists of:
 - 18650 Li-ion batteries
 
 ### 📷 Wiring Diagram
-See: hardware/wiring_diagram.png
+See: hardware/wiring_diagram.jpg
 
 ### 🔩 Mounting Bracket 
 See: hardware/dendro_bracket_v1.pdf
@@ -63,7 +63,7 @@ firmware/dendrometer_logger.ino
 ## 📊 Data Processing
 
 Scripts for computing SDV and MDS are located in:
-data_processing/sdv_mds_processing.pynb
+data_processing/sdv_mds_processing.ipynb
 
 ## 🔁 Reproducibility
 
