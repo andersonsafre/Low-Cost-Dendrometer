@@ -4,7 +4,8 @@
 - Software: MIT License
 - Hardware: CERN-OHL-P
 
-
+Created by Anderson Luiz dos Santos Safre  
+Original project: https://github.com/andersonsafre/Low-Cost-Dendrometer
 
 ![System overview](docs/overview.jpg)
 
