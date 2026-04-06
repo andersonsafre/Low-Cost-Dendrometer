@@ -1,5 +1,11 @@
 # Low-Cost Arduino-Based Dendrometer System
 
+## License
+- Software: MIT License
+- Hardware: CERN-OHL-P
+
+
+
 ![System overview](docs/overview.jpg)
 
 *Figure 1. Low-cost dendrometer system including Arduino datalogger and sensor.*
@@ -43,6 +49,8 @@ See: hardware/dendro_bracket_v1.pdf
 | Coin Cell Battery | CR2032 | 4 |
 | Bracket | Aluminum | 2 |
 | **Total** |  | **73** |
+
+
 Available in:
 bom/bill_of_materials.csv
 
