@@ -30,8 +30,7 @@ See: hardware/wiring_diagram.jpg
 
 ### 🔩 Mounting Bracket 
 
-See: hardware/wiring_diagram.jpg
----
+See: hardware/dendro_bracket_v1.pdf
 
 ## 📦 Bill of Materials (BOM) 
 
