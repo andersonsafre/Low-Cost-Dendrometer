@@ -90,7 +90,12 @@ to ensure full reproducibility of the system.
 
 If you use this project, please cite:
 
-Erasmus, C. S., Drew, D., & Booysen, M. J. (2025).  
-*A Low-Cost Wireless Dendrometer and Digital Twin for Precision Forestry Applications.*  
-Available at: https://doi.org/10.2139/ssrn.5607710
-
+Anderson L.S. Safre, Brent Black, Alfonso Torres-Rua, Gennaro Fazio, Kobe Yost,
+Development and evaluation of a low-cost dendrometer system for agricultural and research applications,
+Smart Agricultural Technology,
+Volume 14,
+2026,
+102073,
+ISSN 2772-3755,
+https://doi.org/10.1016/j.atech.2026.102073.
+(https://www.sciencedirect.com/science/article/pii/S2772375526002947)
