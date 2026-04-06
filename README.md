@@ -29,7 +29,8 @@ The system consists of:
 See: hardware/wiring_diagram.jpg
 
 ### 🔩 Mounting Bracket 
-See: hardware/dendro_bracket_v1.pdf
+
+See: hardware/wiring_diagram.jpg
 ---
 
 ## 📦 Bill of Materials (BOM) 
