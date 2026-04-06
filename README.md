@@ -85,3 +85,12 @@ This repository includes:
 to ensure full reproducibility of the system.
 
 ---
+
+## 📚 How to cite this work
+
+If you use this project, please cite:
+
+Erasmus, C. S., Drew, D., & Booysen, M. J. (2025).  
+*A Low-Cost Wireless Dendrometer and Digital Twin for Precision Forestry Applications.*  
+Available at: https://doi.org/10.2139/ssrn.5607710
+
